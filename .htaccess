@@ -1,0 +1,24 @@
+DefaultLanguage es-ES
+AddDefaultCharset utf-8
+
+SetEnv SERVER_ADMIN admin@correo.com
+
+RewriteEngine on
+Options All -Indexes
+LimitRequestBody 10240000
+
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php 
+
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+
+
+

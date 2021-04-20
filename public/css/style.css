@@ -1,0 +1,71 @@
+/*Hoja de estilos de apoyo*/
+.bg-search{
+	background-color:#566573 ;
+}
+
+.made{
+   text-align:center;
+}
+
+.result{
+	margin-top:-4px;
+	text-decoration-line: none;
+}
+
+.footer-second{
+	padding: 7px;
+	margin-top: 20px;
+	text-align:center;
+	color: #ffffff;
+}
+
+.footer-main{
+    padding: 7px;
+	margin-top: 20px;
+	text-align: center;
+	color: #ffffff;
+    position: fixed;
+    bottom: 0; 
+}
+
+
+.footer-second a{
+	text-decoration-line: none;
+	color:#ffffff;
+}
+
+.footer-main a{
+	text-decoration-line: none;
+	color:#ffffff;
+}
+
+
+.failed{
+    text-align: center;
+}
+
+.main{
+ margin-top: 10%;
+ padding: 10px;
+}
+
+.main img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.register{
+	margin-top: 10%;
+	padding: 10px;
+}
+
+@media all and (orientation: portrait){
+
+	.footer-second{
+       position: fixed;
+       bottom: 0; 
+	}
+}
+
+
