@@ -1,5 +1,7 @@
 # Buscador Sencillo Bootstrap PHP Mysql v1.5
 
+![alt tag](https://i.imgur.com/pqfDjQt.png)
+
 ## INTRODUCCION 🚀
 
 _Este buscador fue diseñado Basicamente para ordernar los links de un servidor donde almaceno mis proyectos con un grupo de amigos,_
@@ -32,6 +34,10 @@ _En la carpeta app/ Modificar el archivo config.php cambiar la url por la url do
 _Una vez hecho esto ya podra ingresar ala url del proyecto en la cual para ingresar links al buscador pulsara en la opcion administrador_
 _una vez en administrador debera loggearse estas seran las credenciales por defecto correo = admin@gmail.com contraseña = abcd123_
 _Puede modificarlas en el script de la base de datos antes de instalarla_
+
+## CAPTURAS DE PANTALLA :computer:
+
+![alt tag](https://i.imgur.com/vORPgs4.jpg)
 
 ## Expresiones de Gratitud :blush:
 
