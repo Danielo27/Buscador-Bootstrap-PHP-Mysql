@@ -26,6 +26,8 @@ _tener conocimientos en php y bases de datos relacionales_
 ## CONSTRUIDO CON 🛠️
 * [ SWEET ALERT ] (https://sweetalert2.github.io/) - Para las alertas del proyecto.
 * [BOOTSTRAP] (https://getbootstrap.com/) - Framework Para los estilos del proyecto y los iconos
+* [PHP] - Lenguaje de Programacion del Script
+* [MySQL] - Motor de Base de Datos
 
 ## INSTALACION 📦
 
