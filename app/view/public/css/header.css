@@ -1,0 +1,1 @@
+/* * Cabecera del sitio */  .header { background-color: var(--first-color) !important; }  .header__nav__div { margin: auto; padding: 1.5% 0 1.5% 0; width: 90%; }  .header__nav__div__div__form__input { margin-left: 5%; }  .header__nav__div__div__form__div__btn { background-color: var(--second-color) !important; color: var(--third-color)!important; }

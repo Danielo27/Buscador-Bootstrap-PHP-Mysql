@@ -1,0 +1,1 @@
+/* * Pie de Pagina */  .footer__div { color: var(--second-color) !important; background-color: var(--first-color); line-height: 0.3rem; padding: 2% 0 2% 0; }  .footer__div__h5 { font-weight: bold; }  .footer__div__h5, .footer__div__p, .footer__div__small { font-size: 95%; }
