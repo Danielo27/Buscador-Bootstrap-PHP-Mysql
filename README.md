@@ -57,7 +57,7 @@
 ## Construido con 🛠️:
 <br>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="badge-PHP"><img src="https://img.shields.io/badge/MySQL-0A4AAD?style=for-the-badge&logo=mysql&logoColor=white" alt="badge-mysql"><img src="https://img.shields.io/badge/HTML-EC872F?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"><img src="https://img.shields.io/badge/CSS-2FB8EC?&style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="badge-js"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="badge-bootstrap">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="badge-PHP"> <img src="https://img.shields.io/badge/MySQL-0A4AAD?style=for-the-badge&logo=mysql&logoColor=white" alt="badge-mysql"> <img src="https://img.shields.io/badge/HTML-EC872F?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"> <img src="https://img.shields.io/badge/CSS-2FB8EC?&style=for-the-badge&logo=css3&logoColor=white" alt="badge-css"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="badge-js"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="badge-bootstrap">
 
 <br>
 
